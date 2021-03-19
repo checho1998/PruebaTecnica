@@ -1,4 +1,4 @@
-# PruebaTecnica 
+# PruebaTecnica PHP-Web_Service
 
 Se desarrollo un API en el framework de laravel, que realiza el consumo de un Web-Service.
 
